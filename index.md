@@ -6,7 +6,7 @@ show_sidebar: false
 ---
 
 # About This Course
-<img src="/ADS2023/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
+<img src="assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
 
 
 In this course, our aim is to get STARTED on using data science in practice, either for academic projects or problems in the industry which we might face later on in our careers. 
@@ -75,7 +75,7 @@ There is no required textbook for this course. But the students are expected to 
 
 <img src="/ADS2023/assets/images/ErfanEsterabi.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
-[Erfan Esterabi](https://www.linkedin.com/in/erfan-esterabi-b47740187/)
+[Mohammad Ali Yousefzadeh](https://www.linkedin.com/in/erfan-esterabi-b47740187/)
 
 
 
@@ -83,4 +83,4 @@ There is no required textbook for this course. But the students are expected to 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
 [Ali Zahedzadeh](mailto:alizahedzadeh7@gmail.com) <br>
-[Erfan Esterabi](mailto:erfan_esterabi@hotmail.com)
+[Mohammad Ali Yousefzadeh](mailto:erfan_esterabi@hotmail.com)
