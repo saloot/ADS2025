@@ -69,7 +69,7 @@ There is no required textbook for this course. But the students are expected to 
 
 
 ### Teaching Assistants
-<img src="/ADS2024/assets/images/Ali-Zahedzadeh.JPG" style="border-radius:50%;height:160px;" width="auto">
+<img src="assets/images/Ali-Zahedzadeh.JPG" style="border-radius:50%;height:160px;" width="auto">
 
 [Ali Zahedzadeh](https://www.linkedin.com/in/ali-zahedzadeh/)
 
