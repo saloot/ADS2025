@@ -1,6 +1,6 @@
 ---
 title: Applied Data Science
-subtitle: Khatam University, Fall 2023
+subtitle: Khatam University, Fall 2024
 layout: page 
 show_sidebar: false
 ---
@@ -63,7 +63,7 @@ There is no required textbook for this course. But the students are expected to 
 # Teaching Staff
 
 ### Lecturer
-<img src="/ADS2023/assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 
