@@ -69,9 +69,9 @@ There is no required textbook for this course. But the students are expected to 
 
 
 ### Teaching Assistants
-<img src="/ADS2023/assets/images/Armin_tourajmehr.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2024/assets/images/Ali-Zahedzadeh.JPG" style="border-radius:50%;height:160px;" width="auto">
 
-[Armin Tourajmehr](https://www.linkedin.com/in/armin-tourajmehr-a5ab36180/)
+[Ali Zahedzadeh](https://www.linkedin.com/in/ali-zahedzadeh/)
 
 <img src="/ADS2023/assets/images/ErfanEsterabi.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
