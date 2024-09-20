@@ -73,14 +73,13 @@ There is no required textbook for this course. But the students are expected to 
 
 [Ali Zahedzadeh](https://www.linkedin.com/in/ali-zahedzadeh/)
 
-<img src="/ADS2023/assets/images/Mohammadali-Yousefzadeh.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="assets/images/Mohammadali-Yousefzadeh.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Mohammad Ali Yousefzadeh](https://www.linkedin.com/in/mohammadali-yousefzadeh-988b30295/)
-
 
 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
 [Ali Zahedzadeh](mailto:alizahedzadeh7@gmail.com) <br>
-[Mohammad Ali Yousefzadeh](mohammadali.yousefzadeh@gmail.com)
+[Mohammad Ali Yousefzadeh](mailto:mohammadali.yousefzadeh@gmail.com)
