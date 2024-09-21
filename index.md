@@ -41,14 +41,19 @@ There is no required textbook for this course. But the students are expected to 
 
 ## Grading 
 * Homeworks: 40%
+    * Homeworks usually come with bonuses. These bonuses only apply to homeworks!
+    
 * Final Project: 40%
     * 1st progress reports during the semester: 25 Points
-    * Final progress and notebook report: 55 Points
-    * Final presentation on the last day of class: 20 Points
-        * Of the 20 points of the presentation, 10 comes from other groups!
+    * Final progress and notebook report: 45 Points
+    * Final presentation on the last day of class: 30 Points
+        * Of the 20 points of the presentation, 15 comes from other groups!
 * Final Exam: 20%
 
-* *Bonus* of upto 5% for participation in a Kaggle contest! More on that later on
+* *Bonus* of upto 6% for participation in contests! More on that later on
+    * Upto 3% points for participating in a Kaggle contest. 
+    * Upto 3% points for a classwide challenge on a common dataset
+
 
 # Logistics
 * The course is divided into a lecture and a lab session each week. 
