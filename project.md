@@ -27,45 +27,10 @@ For the first option, you can select a paper and then reproduce their results. P
 
 ### List of suggested papers
 
-| Type  | Goal  | Paper Title | Link |
-|------|------|-----|-----|
-| Generative adversarial networks  | Deepfake detection | Machine learning based medical image deepfake detection: A comparative study | [Link](https://www.sciencedirect.com/science/article/pii/S2666827022000263) |
-| Clustering  | Patient stratification | Accounting for diverse feature-types improves patient stratification on tabular clinical datasets | [Link](https://www.sciencedirect.com/science/article/pii/S2666827023000439) |
-| Classification, Adaptive Boosting  | address the problem of imbalanced data in classification | A Statistical Approach to Cost-Sensitive AdaBoost for Imbalanced Data Classification | [Link](https://www.hindawi.com/journals/mpe/2021/3165589/) |
-| Ensemble, Classification  | detection of fake news related to COVID-19 on social media | A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection | [Link](https://arxiv.org/abs/2101.03545) |
-| NLP, Classification,  Deep learning  | predicting an individual's gender based on their first name | Predicting Gender by First Name Using Character-level Machine Learning | [Link](https://arxiv.org/abs/2106.10156#:~:text=The%20results%20indicate%20that%20the,in%20this%20binary%20classification%20problem.) |
-| Deep learning, Explainable AI  | development of robust vision pipelines using XAI | A novel application of XAI in squinting models: A position paper | [Link](https://www.sciencedirect.com/science/article/pii/S2666827023000440#:~:text=In%20this%20paper%20we%20show,robust%20vision%20pipelines%2C%20squinting%20pipelines.) |
-| Supervised Machine learning  | predicting heart disease using ML algorithms | Supervised Machine Learning-Based Cardiovascular Disease Analysis and Prediction | [Link](https://www.hindawi.com/journals/mpe/2021/1792201/) |
-| NLP, Transfer learning | explore a novel approach to text classification | Classifying Textual Data with Pre-trained Vision Models through Transfer Learning and Data Transformations | [Link](https://www.sciencedirect.com/science/article/pii/S2666827023000142) |
-| CNN, Image classification | develop an efficient CNN | Integrated Image Sensor and Light Convolutional Neural Network for Image Classification | [Link](https://www.hindawi.com/journals/mpe/2021/5573031/) |
-| CNN, Classification | Using CNN for gender recognition | 11K Hands: Gender recognition and biometric identification using a large dataset of hand images | [Link](https://arxiv.org/abs/1711.04322) |
-| Supply-Demand Prediction, Deep learning | predicting real-time car-hailing supply-demand | DeepSD: Supply-Demand Prediction for Online Car-Hailing Services Using Deep Neural Networks | [Link](https://ieeexplore.ieee.org/document/7929980) |
-| Image classification  | non-parametric Nearest-Neighbor based image classification | In defense of Nearest-Neighbor based image classification | [Link](https://ieeexplore.ieee.org/document/4587598) |
-| Classification  | breast cancer classification | Using Machine Learning Algorithms for Breast Cancer Risk Prediction and Diagnosis | [Link](https://www.sciencedirect.com/science/article/pii/S1877050916302575) |
-| Deep convolutional neural network, Classification  | recognizing handwritten Bangla digits | Bangla handwritten digit recognition using autoencoder and deep convolutional neural network | [Link](https://ieeexplore.ieee.org/abstract/document/7860340) |
-| Stock Market Prediction  | predicting stock market prices | A Machine Learning Model for Stock Market Prediction | [Link](https://arxiv.org/pdf/1402.7351) |
-| Fraud detection, Machine learning models, Deep learning  | detecting credit card fraud efficiently | Financial Fraud Detection in Healthcare Using Machine Learning and Deep Learning Techniques | [Link](https://www.hindawi.com/journals/scn/2021/9293877/) |
-| Regression  | predict daily air pollutants | Short-Term Air Quality Prediction Based on Fractional Grey Linear Regression and Support Vector Machine | [Link](https://www.hindawi.com/journals/mpe/2020/8914501/) |
-| Ensmble Models  | enhancing solar energy prediction using a hybrid model integrating ML and statistics | Forecasting Solar Energy Production Using Machine Learning | [Link](https://www.hindawi.com/journals/ijp/2022/7797488/) |
-| Classification | improving breast cancer recognition accuracy | Breast Cancer Identification Using Machine Learning | [Link](https://www.hindawi.com/journals/mpe/2022/8122895/) |
-| Deep learning, Classification | classifying human activities | Human activity classification using deep learning based on 3D motion feature | [Link](https://www.sciencedirect.com/science/article/pii/S2666827023000142) |
-
+TBA
 
 ## Bonus Points
 You can also enter a competetion on Kaggle (which will be introduced later on).
-
-Here's how the points are allocated:
-* 2 points: Each indivdiual with a successful entry
-* Points on scoring compared to class-mates:
-    * 5 Points: best result among class mates
-    * 2 Points: second-best result among class mates
-    * 1 Points: third-best result among class mates
-* Points on scoring compared to other contestants:
-    * 8 Points: result scored among top 100 contestants
-    * 5 Points: result scored among top 300 contestants
-    * 3 Points: result scored among top 500 contestants
-    * 1 Points: result scored among top 1000 contestants
-
 
 <h1 id="presentation"> Project's Presentation </h1>
 Part of the final project is presenting your work in the class. 
@@ -74,9 +39,9 @@ Part of the final project is presenting your work in the class.
     * Therefore, handwritten notes or photos of handwritten slides do **not** qualify ;) 
 
 ## Grading
-As mentioned above, from the 100 points for the final project, 20 points is dedicated to the final presentation, broken down as follows:
-*  10 from the teaching staff
-*  7 from other classmates: we will conduct a poll at the end of each presentation and get feedback from your classmates.
+As mentioned above, from the 100 points for the final project, 30 points is dedicated to the final presentation, broken down as follows:
+*  15 from the teaching staff
+*  12 from other classmates: we will conduct a poll at the end of each presentation and get feedback from your classmates.
 *  3 bonus points: participating in grading other classmate's presentation and giving them feedback
 
 
@@ -140,20 +105,18 @@ The other important part of final project is its report and notebook.
 * Do not forget to **provide reference to any piece of code, text, image, etc.** that you reuse in your project.
 
 ## Grading
-As mentioned above, from the 100 points for the final project, 70 points is dedicated to the final notebook and report:
-* 50 Points on the notebook:
+As mentioned above, from the 100 points for the final project, 70 points is dedicated to the final notebook and report(s):
+* 45 Points on the notebook:
     * 15 points: notebook running correctly and without a bug
     * 20 points: sufficient comments that clearly explains what each code block does, and that you have mastered the code you have used in the notebook
     * 15 points: the results of the algorithm are correct, i.e. the code correctly reproduces the paper it is based on or if it is a personal project, the results are in line with project's definition and objectives.
 
-* 30 Points on the two progress reports. 
-    * For the first report:
-        * 5 points: explaining the problem at hand and its importance
-        * 5 points: previous work
-        * 5 points: the approach you have selected
-    * For the second report:
-        * 5 points: comparison of different algorithms
-        * 10 points: results and how they compare to other approaches/algorithms
+* 25 Points on the first progress report:
+    * 5 points: explaining the problem at hand and its importance
+    * 5 points: previous work
+    * 5 points: the approach you have selected
+    * 5 points: comparison of different algorithms
+    * 5 points: results (so far) and how they compare to other approaches/algorithms
     
     * Clear and informative visualizatins help here a lot
 
