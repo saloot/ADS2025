@@ -39,6 +39,6 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 * 15 Points: Pick a dataset to work on for your homeworks (see some suggestions [here](/ADS2024/resources)).
 * 15 Points: Form your groups and send us an email.
 
-**Due date:** Monday, Mehr 11, 23:59
+**Due date:** Wednesday, Mehr 11, 23:59
 
 
