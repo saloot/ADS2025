@@ -60,4 +60,7 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
 
+**Note:**  
+If you are using platforms such as Google Colab, Github, or Kaggle, please ensure that you also submit the `.ipynb` file on the Microsoft Teams assignment page. 
+
 **Due date:** Monday, Sunday 22 Merh, 23:59
