@@ -103,3 +103,24 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 
 
+### Assignment 4: Feature Engineering
+* On the database of your choice, practice different data visualization techniques
+    * 10 Points on the notebook running correctly.
+    * Create new features based on:
+        * 15 points: ratio, binning, function of a column and combining columns
+        * 10 points: date/time
+        * 10 points: counts and aggregation
+    * 15: feature selection based on Mutual Information
+    * 10: dimensonality reduction using PCA
+    * 20 Points on having sufficient explanations and overall readability of the notebook
+    * 10 Points for answering this question (in Farsi or English in your notebooks): when is feature engineering a "nice to have option" and in what situations it is a "must to have"?
+
+* **Bonus 30 Points**: Complete the exercises on [this mini tutorial](https://www.kaggle.com/learn/feature-engineering) on Kaggle.
+    * Once completed, send us the certificate via **Microsoft Teams assignment page** so that we can celeberate together :)
+
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1MnDoavy9aqPrODvCClsHUQPiU-ZDp9iu?usp=sharing) as a guideline.
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+
+**Due date:** Tuesday, Aban 8, 23:59
