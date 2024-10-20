@@ -17,7 +17,7 @@ Here's the schedule for the course.
 | 2 | 8 - 14 Mehr | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1Ywd5TMfVXWZSETLijOSOpSzSvPJTteTW6SXc3s-1acQ/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1Qiv8yEBwfcUtMQV1XURF7MHgT773SVFc?usp=sharing) |
 | 3 | 15 - 21 Mehr | [Data Visualization](https://docs.google.com/presentation/d/1x0bo-dz2V3vEmeAk9TNRb1swRhwbLBcYDwBiOGgbvbs/edit?usp=sharing) | [Visualization Notebook](https://colab.research.google.com/drive/1UkfZPMmsaXewdQ2mcJNBjH6vdgzvQYlP?usp=sharing) + [Web Scraping Notebook](https://colab.research.google.com/drive/1hmaWqEw2WIbrLBynaTo7L1Yn4oWgyHqG?usp=sharing#scrollTo=3H2H6IbNVdfR)|
 | 2 | 22 - 28 Mehr | [Feature Engineering and Dimensionality Reduction](https://docs.google.com/presentation/d/1b_9akZbGygzEIZjZbubhBpoWlurhWcHCatEpOmHqZyY/edit?usp=sharing) | [Feature Engineering Notebook](https://colab.research.google.com/drive/16JzoMVeLRc2B3N5R_OeZFRZ8HFvfr487?usp=sharing) |
-| 3 | 29 Mehr - 5 Aban | Different Problem Types and Accuracy Measures | Accuracy Measures and Scikit-learn |
+| 3 | 29 Mehr - 5 Aban | [Different Problem Types and Accuracy Measures](https://docs.google.com/presentation/d/1LWYjyKJ4XLHhWOvmQivZiyKl8zOnl10AA-Qsk7MCmnc/edit?usp=sharing) | [Accuracy Measures and Scikit-learn](https://colab.research.google.com/drive/1MnDoavy9aqPrODvCClsHUQPiU-ZDp9iu?usp=sharing) |
 | 4 | 6 - 12 Aban | Regression Methods | Regression Methods Notebook |
 | 5 | 13 - 19 Aban | Classification Methods | Classification Methods Notebook |
 | 6 | 20 - 26 Aban | Multiclass/Multilabel Classification and Boosting | Multiclass Classification and Boosting Notebook |
