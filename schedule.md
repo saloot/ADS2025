@@ -19,7 +19,7 @@ Here's the schedule for the course.
 | 2 | 22 - 28 Mehr | [Feature Engineering and Dimensionality Reduction](https://docs.google.com/presentation/d/1b_9akZbGygzEIZjZbubhBpoWlurhWcHCatEpOmHqZyY/edit?usp=sharing) | [Feature Engineering Notebook](https://colab.research.google.com/drive/16JzoMVeLRc2B3N5R_OeZFRZ8HFvfr487?usp=sharing) |
 | 3 | 29 Mehr - 5 Aban | [Different Problem Types and Accuracy Measures](https://docs.google.com/presentation/d/1LWYjyKJ4XLHhWOvmQivZiyKl8zOnl10AA-Qsk7MCmnc/edit?usp=sharing) | [Accuracy Measures and Scikit-learn](https://colab.research.google.com/drive/1MnDoavy9aqPrODvCClsHUQPiU-ZDp9iu?usp=sharing) |
 | 4 | 6 - 12 Aban | [Regression Methods](https://docs.google.com/presentation/d/1aWc5V6PMV-liKA-kCfKiK7jWb670iBNuHuoqn6miyV0/edit?usp=sharing) | [Regression Methods Notebook](https://colab.research.google.com/drive/1rjhtmtbN7wNm6jzYVhAU34ryK41uKlQy?usp=sharing) |
-| 5 | 13 - 19 Aban | Classification Methods | Classification Methods Notebook |
+| 5 | 13 - 19 Aban | [Classification Methods](https://docs.google.com/presentation/d/1wijzxfvqq_tewKiZ4CzA6YS24WKF-kURkpe4Re9czsI/edit?usp=sharing) | [Classification Methods Notebook](https://colab.research.google.com/drive/1poV0_vjGTDRdRVzGiE0TFXl4kIC6jorq?usp=sharing) |
 | 6 | 20 - 26 Aban | Multiclass/Multilabel Classification and Boosting | Multiclass Classification and Boosting Notebook |
 | 7 | 27 Aban - 3 Azar | Neural Networks | Neural Networks Notebook |
 | 8 | 4 - 10 Azar | Deep Learning | Deep Learning Notebook |
