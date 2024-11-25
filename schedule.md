@@ -22,7 +22,7 @@ Here's the schedule for the course.
 | 5 | 13 - 19 Aban | [Classification Methods](https://docs.google.com/presentation/d/1wijzxfvqq_tewKiZ4CzA6YS24WKF-kURkpe4Re9czsI/edit?usp=sharing) | [Classification Methods Notebook](https://colab.research.google.com/drive/1poV0_vjGTDRdRVzGiE0TFXl4kIC6jorq?usp=sharing) |
 | 6 | 20 - 26 Aban | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/15EPb-ssY2JTGbWC2VhlTQGU4fRWocrdEGr3hHXrkwus/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1wLQcjpjxNYXl5WDI45MyNOZDTw1POl8i?usp=sharing) |
 | 7 | 27 Aban - 3 Azar | [Neural Networks](https://docs.google.com/presentation/d/1oDLyH38hPxcWhylBYSiRkfPstDI-iAQ1SPPlddwg1LE/edit?usp=sharing) | [Neural Networks Notebook](https://colab.research.google.com/drive/1G7yUYsXamL4fewOb5dKydf7-Ke2LSoXy?usp=sharing) |
-| 8 | 4 - 10 Azar | [Deep Learning](https://docs.google.com/presentation/d/1ZCrfiS_1Sh3vQ_GaOnwDTK5FjWgw-nyZ1OKV6UlIJtM/edit?usp=sharing) | Deep Learning Notebook |
+| 8 | 4 - 10 Azar | [Deep Learning](https://docs.google.com/presentation/d/1ZCrfiS_1Sh3vQ_GaOnwDTK5FjWgw-nyZ1OKV6UlIJtM/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/18JvMK-xbITCegO53Y3yGSwWD9VqVgFIA?usp=sharing) |
 | 10 | 11 - 17 Azar | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
 | 11 | 18 - 24 Azar | Generative AI | GenAI Notebook |
 | 12 | 25 Azar - 1 Dey | Model Explainability and Imbalanced Data Problem | Explainable AI and Imbalanced Data Problem |
