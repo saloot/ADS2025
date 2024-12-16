@@ -25,7 +25,7 @@ Here's the schedule for the course.
 | 8 | 4 - 10 Azar | [Deep Learning](https://docs.google.com/presentation/d/1ZCrfiS_1Sh3vQ_GaOnwDTK5FjWgw-nyZ1OKV6UlIJtM/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/18JvMK-xbITCegO53Y3yGSwWD9VqVgFIA?usp=sharing) |
 | 10 | 11 - 17 Azar | [Deep Learning Application: Image Classification](https://docs.google.com/presentation/d/1SjB4NmbWE6JKX4574jUvdK4J-c0a0T-F801wITovH74/edit?usp=sharing) | [Convolutional Neural Networks Notebook](https://colab.research.google.com/drive/1UlD57pH_dcmoeR0_ai1avo7_RxTbg3OF?usp=sharing) |
 | 11 | 18 - 24 Azar | [Generative AI](https://docs.google.com/presentation/d/15Rd0PbYuVpw-J36uILw7mbrl4psLZKYLB7OguDiFlFI/edit?usp=sharing) | [GenAI Notebook](https://colab.research.google.com/drive/1FiLzy5tmf3wU8gryJ_i_gpq3CqmR6qlh?usp=sharing) |
-| 12 | 25 Azar - 1 Dey | Model Explainability and Imbalanced Data Problem | Explainable AI and Imbalanced Data Problem |
+| 12 | 25 Azar - 1 Dey | [Model Explainability and Imbalanced Data Problem](https://docs.google.com/presentation/d/1iZCqxC4ctoYfqj4kHVuQualVJpNVUTvdKOR57JSr-xI/edit?usp=sharing) | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1qnWsa5hv58N_nxJkTjYdOKQIkkZkvDgs?usp=sharing) |
 | 13 | 2 - 8 Dey | Practical Stuff | Practical Stuff Notebook |
 | 14 | 11 Dey | Guest Speakers from Inudstry |
 | 15 | 16 - 18 Dey | Final Projects Presentation | Final Projects Presentation |
