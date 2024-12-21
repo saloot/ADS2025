@@ -27,8 +27,8 @@ Here's the schedule for the course.
 | 11 | 18 - 24 Azar | [Generative AI](https://docs.google.com/presentation/d/15Rd0PbYuVpw-J36uILw7mbrl4psLZKYLB7OguDiFlFI/edit?usp=sharing) | [GenAI Notebook](https://colab.research.google.com/drive/1FiLzy5tmf3wU8gryJ_i_gpq3CqmR6qlh?usp=sharing) |
 | 12 | 25 Azar - 1 Dey | [Model Explainability and Imbalanced Data Problem](https://docs.google.com/presentation/d/1iZCqxC4ctoYfqj4kHVuQualVJpNVUTvdKOR57JSr-xI/edit?usp=sharing) | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1qnWsa5hv58N_nxJkTjYdOKQIkkZkvDgs?usp=sharing) |
 | 13 | 2 - 8 Dey | Practical Stuff | Practical Stuff Notebook |
-| 14 | 11 Dey | Guest Speakers from Inudstry |
-| 15 | 16 - 18 Dey | Final Projects Presentation | Final Projects Presentation |
+| 14 | 16 Dey | Guest Speakers from Inudstry |
+| 15 | 11 and 18 Dey | Final Projects Presentation | Final Projects Presentation |
 | 16 | 3 Bahman | Final Exam
 
 
