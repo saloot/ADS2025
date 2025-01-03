@@ -63,11 +63,13 @@ Let me know if you need further adjustments or additional details for any specif
 <h1 id="bonus-kaggle"> ## Bonus Points
 You are encouraged to enter the following [Kaggle competition](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions) on "Equity in post-HCT Survival Predictions".
 
-The deadline to submit your final results is **Februray 6, 2025**. You can get upto 10 bonus points on your final grade (out of 100).
+The deadline to submit your final results is **Februray 6, 2025**. You can get upto 12 bonus points on your final grade (out of 100).
 
 As for the bonus points, here's how they are allocated:
 
 2 points: Each indivdiual with a successful entry
+
+2 points: The best notebook among classmates in terms of comments, graphs, readability, etc. (The judge of that will be the TAs and me ;) )
 
 Points on scoring compared to class-mates:
 * 3 Points: best result among class mates
