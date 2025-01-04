@@ -60,7 +60,7 @@ Here's the updated list based on your provided template:
 
 Let me know if you need further adjustments or additional details for any specific entry!
 
-<h1 id="bonus-kaggle"> ## Bonus Points
+<h1 id="bonus-kaggle"> Bonus Points </h1>
 You are encouraged to enter the following [Kaggle competition](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions) on "Equity in post-HCT Survival Predictions".
 
 The deadline to submit your final results is **Februray 6, 2025**. You can get upto 12 bonus points on your final grade (out of 100).
