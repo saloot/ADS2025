@@ -1,6 +1,6 @@
 ---
 title: Applied Data Science
-subtitle: Khatam University, Fall 2024
+subtitle: Sharif University of Technology, Spring 2025
 layout: page 
 show_sidebar: false
 ---
@@ -39,7 +39,7 @@ Overall, our main target is that we can conduct the whole workflow (e.g. from ga
 ## Reading Material
 There is no required textbook for this course. But the students are expected to go over the material that is introduced along the way during the course. 
 
-## Grading 
+## Grading (TBD)
 * Homeworks: 40%
     * Homeworks usually come with bonuses. These bonuses only apply to homeworks!
     
@@ -57,9 +57,6 @@ There is no required textbook for this course. But the students are expected to 
 
 # Logistics
 * The course is divided into a lecture and a lab session each week. 
-* Classes are a combination of online and in person. We plan to have two in-person hands-on lab session held in person each month and the rest are online and recorded on MS teams.
-  * We'll arrange a session throughout the week for helping you with issues you might encounters when working on your homework/project. Alternatively, you could contact us o
-  MS Teams chat as well.
 * We are going to use **Python** for the hands on lab sessions. But homeworks/projects can be handed as a pre-computed Jupyter notebooks.
 * Communications are done via MS Teams chat rooms.
 
@@ -74,17 +71,8 @@ There is no required textbook for this course. But the students are expected to 
 
 
 ### Teaching Assistants
-<img src="assets/images/Ali-Zahedzadeh.JPG" style="border-radius:50%;height:160px;" width="auto">
-
-[Ali Zahedzadeh](https://www.linkedin.com/in/ali-zahedzadeh/)
-
-<img src="assets/images/Mohammadali-Yousefzadeh.jpg" style="border-radius:50%;height:160px;" width="auto">
-
-[Mohammad Ali Yousefzadeh](https://www.linkedin.com/in/mohammadali-yousefzadeh-988b30295/)
-
+TBD
 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
-[Ali Zahedzadeh](mailto:alizahedzadeh7@gmail.com) <br>
-[Mohammad Ali Yousefzadeh](mailto:mohammadali.yousefzadeh@gmail.com)
