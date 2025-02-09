@@ -64,10 +64,16 @@ There is no required textbook for this course. But the students are expected to 
 
 # Teaching Staff
 
-### Lecturer
+### Lecturers
+<img src="assets/images/shahmansoori.jpg" style="border-radius:50%;height:160px;" width="auto">
+
+[Hamed Shah Mansouri](https://sharif.edu/~hamedsh/)
+
+
 <img src="assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
 
-[Amir Hesam Salavati](http://saloot.negsam.ir/)
+[Amir Hesam Salavati](https://saloot.negsam.ir/)
+
 
 
 ### Teaching Assistants
