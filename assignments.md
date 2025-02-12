@@ -14,7 +14,7 @@ Homeworks will be announced regularly here and in the lectures. For the homework
     * Create a Github repository and submit each week's assignment there (this is the **strongly recommended** option).
     * Otherwise, you can submit it via a Google Colab and share it with us.
 
-* Homeworks can be done in a group of 2 (and we strongly recommend it!). 
+* Homeworks should be done indvidually. 
 
 * You will be graded according to the following criteria:
     * Notebook runs without a problem: 10%
