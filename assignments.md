@@ -53,14 +53,14 @@ Homeworks will be announced regularly here and in the lectures. For the homework
     * 15 Points on having sufficient explanations and overall readability of the notebook
 
 * **Bonus 40 Points**: Complete the exercises on [this mini tutorial](https://www.kaggle.com/learn/data-cleaning) on Kaggle.
-    * Once completed, send us the certificate via **Microsoft Teams assignment page** so that we can celeberate together :)
+    * Once completed, send us the certificate via email or through Sharif Course-ware so that we can celeberate together :)
 
 * You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1tgSjMu0var9LQUNG8VymHV47NI7WfDAH?usp=sharing) as a guideline.
 
 
-Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Microsoft Teams**.
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle).
 
 **Note:**  
-If you are using platforms such as Google Colab, Github, or Kaggle, please ensure that you also submit the `.ipynb` file on the Microsoft Teams assignment page. 
+If you are using platforms such as Google Colab, Github, or Kaggle, please ensure that you also submit the `.ipynb` file. 
 
 **Due date:** Tuesday, 7 Esfand, 23:59
