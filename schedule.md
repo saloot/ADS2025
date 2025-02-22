@@ -15,7 +15,7 @@ Here's the schedule for the course.
 |------|------|-----|-----|
 | 1 | 20 - 26 Bahman | [Course Introduction](https://docs.google.com/presentation/d/1Hpo90SP-6fHAqNAmLJ_Q-iaSvQSAh8JcV_VCvxBFiDQ/edit?usp=sharing)	| [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1akmnoXuGv4Xkl8i0LvwkfyVxhT4hIswH?usp=sharing) |
 | 2 | 27 Bahman - 4 Esfand | [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1YaswaCVHOujCDkab2ciMR-IODv64ebgJp-ny9T-FPGQ/edit?usp=sharing) | [EDA/Cleaning in Action](https://colab.research.google.com/drive/1tgSjMu0var9LQUNG8VymHV47NI7WfDAH?usp=sharing) |
-| 3 | 5 - 11 Esfand | Data Visualization | Visualization Notebook + Web Scraping Notebook |
+| 3 | 5 - 11 Esfand | [Data Visualization](https://docs.google.com/presentation/d/1KyzvdcIjZFfyQ6zFusA0uGwpgV9KIDE_iyHZ-FVV0Nk/edit?usp=sharing) | [Visualization Notebook + Web Scraping Notebook](https://colab.research.google.com/drive/1didsHn5Hn3QkeLNuneGsS1Tp3jpuT1nI?usp=sharing) |
 | 2 | 12 - 18 Esfand | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
 | 3 | 19 - 25 Esfand | Different Problem Types and Accuracy Measures | Accuracy Measures and Scikit-learn |
 | 4 | 26 - 28 Esfand | Regression Methods | Regression Methods Notebook |
