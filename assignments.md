@@ -63,4 +63,39 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 **Note:**  
 If you are using platforms such as Google Colab, Github, or Kaggle, please ensure that you also submit the `.ipynb` file. 
 
-**Due date:** Tuesday, 7 Esfand, 23:59
+**Due date:** Tuesday, Esfand 7, 23:59
+
+
+### Assignment 3: Data Visualization + Web-scraping
+* On the database of your choice, practice different data visualization techniques
+    * 5 Points on the notebook running correctly.
+    * 10 points: pie charts (5 points) and box plots (5 points)
+    * 10 Points: line charts (5 points) and stacked (multiple) line charts (5 points)
+    * 15 Points: bar charts (5 points), multiple bar charts (5 points) and stacked bar charts (5 points)
+    * 10 points: scatter plots (5 points) and bubble charts (5 points)
+    * 5 Points on showing the uncertainty (error bars) on a chart of your choice
+    * 10 Points on interactive charts using Plotly and/or Bokeh
+    * 15 Points on having sufficient explanations and overall readability of the notebook
+
+    * Please Make sure that all your charts have proper **title, axis range, axis labels and legends**.
+    * You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1didsHn5Hn3QkeLNuneGsS1Tp3jpuT1nI?usp=sharing) as a guideline.
+
+* Web-scraping (20 points): Please write a simpel scraper to extract the following data for 50 "Samand" cars, manufactured after 1385 from the site: https://bama.ir
+  
+    * Price 
+    * Milage
+    * Color
+    * Production year
+    * Transmission type (manual or automatic)
+    * Description
+
+    * Plase submit your code as well as results in the form of an excel file.
+    * You can use the [web-scraping notebook](https://colab.research.google.com/drive/1hmaWqEw2WIbrLBynaTo7L1Yn4oWgyHqG?usp=sharing#scrollTo=3H2H6IbNVdfR) as a guideline.
+
+* **Bonus 40 Points**: Complete the exercises on [this mini tutorial](https://www.kaggle.com/learn/data-visualization) on Kaggle.
+    * Once completed, send us the certificate via Sharif Coursware so that we can celeberate together :)
+
+
+Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle).
+
+**Due date:** Tuesday, Esfand 14, 23:59
