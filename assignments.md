@@ -151,7 +151,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
  
 * To measure the above metric, you can either perform simple regression/classification using scikit-learn modules, or simply generate a random vector as the prediction and measure the difference (accuracy) between this "prediction" vector and the actual values (one of the columns of your choice).
 
-* You can use the [lab sessions's notebook](https://docs.google.com/presentation/d/15zURhHng-EkAg7Oyxe8rEKNcjxM7RDs7ydY0dxRG04c/edit?usp=sharing) as a guideline.
+* You can use the [lab sessions's notebook](https://colab.research.google.com/drive/1PYDfB4pAs0Hv2RY55Jsq4bsw9_ByNjsd?usp=sharing) as a guideline.
 
 **IMPORTANT NOTE**: In your notebook, **per cell**, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, *you will not get the full mark*.
 
