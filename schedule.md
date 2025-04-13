@@ -20,7 +20,7 @@ Here's the schedule for the course.
 | 3 | 19 - 25 Esfand | [Different Problem Types and Accuracy Measures](https://docs.google.com/presentation/d/1KJg8YQDAo2HiIWbb59BEkl-PvSf7xVcpy3-bH0rg_20/edit?usp=sharing) | [Accuracy Measures and Scikit-learn](https://colab.research.google.com/drive/1PYDfB4pAs0Hv2RY55Jsq4bsw9_ByNjsd?usp=sharing) |
 | 4 | 26 - 28 Esfand | [Regression Methods](https://docs.google.com/presentation/d/15zURhHng-EkAg7Oyxe8rEKNcjxM7RDs7ydY0dxRG04c/edit?usp=sharing) | [Regression Methods Notebook](https://colab.research.google.com/drive/1HRfgAfs94rtK9WdEUpO9Os43yEt-x7zd?usp=sharing) |
 | 5 | 17 - 23 Farvardin | [Classification Methods](https://docs.google.com/presentation/d/12vsGBkKZbcKzlrYxJUpPjpSzApxbCTMl5vTTPuNHS4k/edit?usp=sharing) | [Classification Methods Notebook](https://colab.research.google.com/drive/1uQRWXCp8o9tSJaRR8C31K2ZPMsHtbfOD?usp=sharing) |
-| 6 | 24 - 30 Farvardin | Multiclass/Multilabel Classification and Boosting | Multiclass Classification and Boosting Notebook |
+| 6 | 24 - 30 Farvardin | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/1_6zCXMgUCZRwV78q2BO7hT9yYNZLIYye3r8Ia7-nmyM/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1hqOlp9ps9Umby2Q3FZKEa6glS-g2Hkw-?usp=sharing) |
 | 7 | 31 Farvardin - 6 Ordibehesht | Neural Networks | Neural Networks Notebook |
 | 8 | 7 - 13 Ordibehesht | Deep Learning | Deep Learning Notebook |
 | 10 | 14 - 20 Ordibehesht | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
