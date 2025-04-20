@@ -21,7 +21,7 @@ Here's the schedule for the course.
 | 4 | 26 - 28 Esfand | [Regression Methods](https://docs.google.com/presentation/d/15zURhHng-EkAg7Oyxe8rEKNcjxM7RDs7ydY0dxRG04c/edit?usp=sharing) | [Regression Methods Notebook](https://colab.research.google.com/drive/1HRfgAfs94rtK9WdEUpO9Os43yEt-x7zd?usp=sharing) |
 | 5 | 17 - 23 Farvardin | [Classification Methods](https://docs.google.com/presentation/d/12vsGBkKZbcKzlrYxJUpPjpSzApxbCTMl5vTTPuNHS4k/edit?usp=sharing) | [Classification Methods Notebook](https://colab.research.google.com/drive/1uQRWXCp8o9tSJaRR8C31K2ZPMsHtbfOD?usp=sharing) |
 | 6 | 24 - 30 Farvardin | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/1_6zCXMgUCZRwV78q2BO7hT9yYNZLIYye3r8Ia7-nmyM/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1hqOlp9ps9Umby2Q3FZKEa6glS-g2Hkw-?usp=sharing) |
-| 7 | 31 Farvardin - 6 Ordibehesht | Neural Networks | Neural Networks Notebook |
+| 7 | 31 Farvardin - 6 Ordibehesht | [Neural Networks](https://docs.google.com/presentation/d/1Pxwn2vKO-BPqgT1Y1vI5xrhdTckDuxoBXVyHhrrmquY/edit?usp=sharing) | [Neural Networks Notebook](https://colab.research.google.com/drive/1EuCbMozXH19FbIKmFJtyiCqkpLv5-gh9?usp=sharing) |
 | 8 | 7 - 13 Ordibehesht | Deep Learning | Deep Learning Notebook |
 | 10 | 14 - 20 Ordibehesht | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
 | 11 | 21 - 27 Ordibehesht | Generative AI | GenAI Notebook |
