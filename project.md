@@ -26,7 +26,23 @@ For the first option, you can select a paper and then reproduce their results. P
 * If you could not find a proper paper, we will provide a list of suggested options and you can select from them in the second half of Mehr.
 
 ### List of suggested papers
-TBA
+| Type  | Goal  | Paper Title | Link |
+|------|------|-----|-----|
+| Classification  | Deepfake detection | Machine learning based medical image deepfake detection: A comparative study | [Link](https://www.sciencedirect.com/science/article/pii/S2666827022000263) |
+| Classification | Handling Imbalanced data in Classification | A Statistical Approach to Cost-Sensitive AdaBoost for Imbalanced Data Classification | [Link](https://www.hindawi.com/journals/mpe/2021/3165589/) |
+| Classification  | Fake news Detection | A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection | [Link](https://arxiv.org/abs/2101.03545) |
+| Classification  | Gender Prediction from First Name| Predicting Gender by First Name Using Character-level Machine Learning | [Link](https://arxiv.org/abs/2106.10156#:~:text=The%20results%20indicate%20that%20the,in%20this%20binary%20classification%20problem.) |
+| Classification | Heart disease prediction| Supervised Machine Learning-Based Cardiovascular Disease Analysis and Prediction | [Link](https://www.hindawi.com/journals/mpe/2021/1792201/) |
+| Classification| Text classification | Classifying Textual Data with Pre-trained Vision Models through Transfer Learning and Data Transformations | [Link](https://www.sciencedirect.com/science/article/pii/S2666827023000142) |
+| Classification | Image Classification | Integrated Image Sensor and Light Convolutional Neural Network for Image Classification | [Link](https://www.hindawi.com/journals/mpe/2021/5573031/) |
+| Classification | Gender Recognition from Hands | 11K Hands: Gender recognition and biometric identification using a large dataset of hand images | [Link](https://arxiv.org/abs/1711.04322) |
+| Classification  | Image Classification | In defense of Nearest-Neighbor based image classification | [Link](https://ieeexplore.ieee.org/document/4587598) |
+| Classification  | Breast Cancer Prediction | Using Machine Learning Algorithms for Breast Cancer Risk Prediction and Diagnosis | [Link](https://www.sciencedirect.com/science/article/pii/S1877050916302575) |
+| Classification  | Fraud detection, | Financial Fraud Detection in Healthcare Using Machine Learning and Deep Learning Techniques | [Link](https://www.hindawi.com/journals/scn/2021/9293877/) |
+| Regression  | Air pollutantion Prediction | Short-Term Air Quality Prediction Based on Fractional Grey Linear Regression and Support Vector Machine | [Link](https://www.hindawi.com/journals/mpe/2020/8914501/) |
+| Regression | Supply-Demand Prediction w. Deep learning  | DeepSD: Supply-Demand Prediction for Online Car-Hailing Services Using Deep Neural Networks | [Link](https://ieeexplore.ieee.org/document/7929980) |
+| Regression  | Stock Market Prediction| A Machine Learning Model for Stock Market Prediction | [Link](https://arxiv.org/pdf/1402.7351) |
+| Regression | Solar Energy Estimation | Forecasting Solar Energy Production Using Machine Learning | [Link](https://www.hindawi.com/journals/ijp/2022/7797488/) |
 
 
 <h1 id="bonus-kaggle"> Bonus Points </h1>
