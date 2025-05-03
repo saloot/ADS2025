@@ -23,7 +23,7 @@ Here's the schedule for the course.
 | 6 | 24 - 30 Farvardin | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/1_6zCXMgUCZRwV78q2BO7hT9yYNZLIYye3r8Ia7-nmyM/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1hqOlp9ps9Umby2Q3FZKEa6glS-g2Hkw-?usp=sharing) |
 | 7 | 31 Farvardin - 6 Ordibehesht | [Neural Networks](https://docs.google.com/presentation/d/1Pxwn2vKO-BPqgT1Y1vI5xrhdTckDuxoBXVyHhrrmquY/edit?usp=sharing) | [Neural Networks Notebook](https://colab.research.google.com/drive/1EuCbMozXH19FbIKmFJtyiCqkpLv5-gh9?usp=sharing) |
 | 8 | 7 - 13 Ordibehesht | [Deep Learning](https://docs.google.com/presentation/d/1XA8TP8gTeMLwDaupdincMAJutoha7oyEP3piQ2yeY6A/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/1KQAhxy2oVEvKzyyB7JqbGCKD7x-yso9B?usp=sharing) |
-| 10 | 14 - 20 Ordibehesht | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
+| 10 | 14 - 20 Ordibehesht | [Deep Learning Application: Image Classification](https://docs.google.com/presentation/d/1IP98lgEcaO4Z0ZZkfAjSMdtPkmb57HHaUNAWS0Nm8bg/edit?usp=sharing) | Convolutional Neural Networks Notebook |
 | 11 | 21 - 27 Ordibehesht | Generative AI | GenAI Notebook |
 | 12 | 28 Ordibehesht - 3 Khordad | Model Explainability and Imbalanced Data Problem | Explainable AI and Imbalanced Data Problem |
 | 13 | 2 Khordad | Guest Speakers from Inudstry |
