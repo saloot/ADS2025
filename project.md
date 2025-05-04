@@ -26,6 +26,7 @@ For the first option, you can select a paper and then reproduce their results. P
 * If you could not find a proper paper, we will provide a list of suggested options and you can select from them in the second half of Mehr.
 
 ### List of suggested papers
+
 | Type  | Goal  | Paper Title | Link |
 |------|------|-----|-----|
 | Classification  | Deepfake detection | Machine learning based medical image deepfake detection: A comparative study | [Link](https://www.sciencedirect.com/science/article/pii/S2666827022000263) |
@@ -39,6 +40,7 @@ For the first option, you can select a paper and then reproduce their results. P
 | Classification  | Image Classification | In defense of Nearest-Neighbor based image classification | [Link](https://ieeexplore.ieee.org/document/4587598) |
 | Classification  | Breast Cancer Prediction | Using Machine Learning Algorithms for Breast Cancer Risk Prediction and Diagnosis | [Link](https://www.sciencedirect.com/science/article/pii/S1877050916302575) |
 | Classification  | Fraud detection, | Financial Fraud Detection in Healthcare Using Machine Learning and Deep Learning Techniques | [Link](https://www.hindawi.com/journals/scn/2021/9293877/) |
+| Regression  | Prediction of Graduate Admissions | A Comparison of Regression Models for Prediction of Graduate Admissions | [Link](https://www.researchgate.net/profile/Aneeta-S-Antony-2/publication/336436894_A_Comparison_of_Regression_Models_for_Prediction_of_Graduate_Admissions/links/5fbe29e5299bf104cf7562e1/A-Comparison-of-Regression-Models-for-Prediction-of-Graduate-Admissions.pdf?_sg%5B0%5D=yVnvfxxbkboyfZi7ek_1R4dnQJ7uEIxwhdunsD4PXtGuOxJj_5ZvEZ2HoZrYWJQoWxHtEF5tpRdzmUP9_CJTBQ.f4kFudbLh0wKjQhYuBE_3mFNLrknZI9BcB95al2SugyDqmvFIVoMU-vpd-Enlqm6z2SC9dFQqVV323j2xqLjzg.U62vuD5jM1BVJQXtealWVN7c7SHvPDdJKG5uN953TBeim2BQWcXJsMhtb-HWAeC2uWjCl5pkpcw_tgp1kNu3Wg&_sg%5B1%5D=n4y3seUZb3w2l1xlqJ_ulTPMqjs8sl_cmqm0qLXZn4QgeflYZOWD9PM8qYwGKouWFWc1Tto9YENoQp7paLfHy7B5wJjiYLrLQJDx7zjOoLqP.f4kFudbLh0wKjQhYuBE_3mFNLrknZI9BcB95al2SugyDqmvFIVoMU-vpd-Enlqm6z2SC9dFQqVV323j2xqLjzg.U62vuD5jM1BVJQXtealWVN7c7SHvPDdJKG5uN953TBeim2BQWcXJsMhtb-HWAeC2uWjCl5pkpcw_tgp1kNu3Wg&_iepl=) |
 | Regression  | Air pollutantion Prediction | Short-Term Air Quality Prediction Based on Fractional Grey Linear Regression and Support Vector Machine | [Link](https://www.hindawi.com/journals/mpe/2020/8914501/) |
 | Regression | Supply-Demand Prediction w. Deep learning  | DeepSD: Supply-Demand Prediction for Online Car-Hailing Services Using Deep Neural Networks | [Link](https://ieeexplore.ieee.org/document/7929980) |
 | Regression  | Stock Market Prediction| A Machine Learning Model for Stock Market Prediction | [Link](https://arxiv.org/pdf/1402.7351) |
