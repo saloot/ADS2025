@@ -68,7 +68,28 @@ For the first option, you can select a paper and then reproduce their results. P
 
 
 <h1 id="bonus-kaggle"> Bonus Points </h1>
-TBA
+You are encouraged to enter the following [Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) on "House Prices" prediction.
+
+The deadline to submit your final results is **Khordad 30, 1404**. You can get upto 12 bonus points on your final grade (out of 100).
+
+As for the bonus points, here's how they are allocated:
+
+2 points: Each indivdiual with a successful entry
+
+2 points: The best notebook among classmates in terms of comments, graphs, readability, etc. (The judge of that will be the TAs and me ;) )
+
+Points on scoring compared to class-mates:
+* 3 Points: best result among class mates
+* 2 Points: second-best result among class mates
+* 1 Points: third-best result among class mates
+
+Points on scoring compared to other contestants:
+* 5 Points: result scored among top 100 contestants
+* 3 Points: result scored among top 300 contestants
+* 1 Points: result scored among top 500 contestants
+
+IMPORTANT: It is ok to use others' notebooks as inspiration. BUT, if you use other peoples notebooks, make sure to cite them. AND in order to get the above points, you need to make sure that you have made sufficent innovations in the code. Otherwise, only the 2 points for entering the competitions will be awarded. 
+
 
 <h1 id="presentation"> Project's Presentation </h1>
 Part of the final project is presenting your work in the class. 
