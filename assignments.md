@@ -364,7 +364,7 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Sharif CW**.
 
-**Due date:** Thursday, Khordad 8, 23:59
+**Due date:** Thursday, Khordad 9, 23:59
 
 
 
@@ -398,4 +398,4 @@ Please hand in the *compiled* notebook (or the link to your *compiled* notebook 
 
 Please hand in the *compiled* notebook (or the link to your *compiled* notebook on Google Colab/Github/Kaggle) **on the assignment page of Sharif CW**.
 
-**Due date:** Thursday, Khordad 15, 23:59
+**Due date:** Thursday, Khordad 16, 23:59
